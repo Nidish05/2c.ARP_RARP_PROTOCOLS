@@ -19,7 +19,7 @@ P
 ## PROGRAM
 ![Screenshot 2025-03-19 104444](https://github.com/user-attachments/assets/1b546f0e-6ae1-440e-a0e5-603bb504e5b8)
 
-## OUPUT
+## OUTPUT
 ![Screenshot 2025-03-19 104435](https://github.com/user-attachments/assets/1496a197-80a1-4ea0-b445-a412fd2dd5f3)
 
 ## RESULT
